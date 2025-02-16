@@ -39,10 +39,14 @@ WebDriver driver=new ChromeDriver();
 
    
         // Close the browser
-        driver.quit();
+        driver.quit();   
     }
         
 
 	}
+//Output 
+Target Element Background Color After Drop: rgba(255, 250, 144, 1)
+Drag and Drop Operation Successful!
+
 
 
